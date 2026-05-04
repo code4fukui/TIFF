@@ -1,5 +1,7 @@
 # TIFF.js
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Small JavaScript module for reading and writing HDR TIFF images as 16-bit floating point RGBA data.
 
 This is intentionally focused on one practical format:

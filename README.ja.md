@@ -1,5 +1,7 @@
 # TIFF.js
 
+> English README: [README.md](README.md)
+
 HDR TIFF 画像を 16bit 浮動小数点 RGBA データとして読み書きするための小さな JavaScript モジュールです。
 
 この実装は、次の実用的な形式に絞っています。
